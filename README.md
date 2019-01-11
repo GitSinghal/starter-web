@@ -12,3 +12,6 @@ This is a simple web project.deployment can be on any web server or local file s
 
 ## How To Contribute
 
+###Copyright
+Git.Training
+
