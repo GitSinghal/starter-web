@@ -15,5 +15,5 @@ This is a simple web project.deployment can be on any web server or local file s
 Please fork this repository .
 
 ###Copyright
-Git.Training2.All rights reserved.
+Git.Training2
 
